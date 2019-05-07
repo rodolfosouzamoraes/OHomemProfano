@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1af192ae504a5d3459574315162098d5, type: 3}
+  m_Name: Chaveiro
+  m_EditorClassIdentifier: 
+  textoJogo: "Obtemos a informa\xE7\xE3o de que o Bispo de Whittenfronth fez recentemente
+    duas c\xF3pias de uma chave e que disse ser de um arm\xE1rio pessoal."
+  proximoState:
+  - {fileID: 11400000, guid: 6d2f3aefd21642641b344534a91415c5, type: 2}
+  - {fileID: 11400000, guid: 071d7d3cdb8326a40b0143feeb503252, type: 2}
+  - {fileID: 11400000, guid: a8d684fb6f8f32a4db5e25daff9ba97c, type: 2}

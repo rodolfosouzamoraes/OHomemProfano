@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1af192ae504a5d3459574315162098d5, type: 3}
+  m_Name: Docas
+  m_EditorClassIdentifier: 
+  textoJogo: "O fiscal da alf\xE2ndega confirmou que o Pregador chegou de navio h\xE1
+    cinco dias atr\xE1s. No registro de bordo, consta que o navio fez uma parada na
+    ensolarada Riviera francesa."
+  proximoState:
+  - {fileID: 11400000, guid: 92cebd477c304f144a9d9601921bbd3e, type: 2}
+  - {fileID: 11400000, guid: 6a01ebed6a4e0034d9ce3454291ac334, type: 2}
+  - {fileID: 11400000, guid: a8d684fb6f8f32a4db5e25daff9ba97c, type: 2}
